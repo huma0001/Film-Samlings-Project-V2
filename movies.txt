@@ -1,0 +1,8 @@
+Godfather|Francis Ford|1972|true|175|Drama
+Monsters Inc.|Pete Docter|2002|true|92|Adventure/Comedy
+Pulp Fiction|Quentin Tarintino|1994|true|154|Crime/Drama
+Interstellar|Christopher Nolan|2014|true|169|Sci-Fi/Adventure
+The Grudge|Takashi Shimizu|2004|true|91|Horror
+Schindlers list|Steven Spielberg|1993|false|195|War/Drama
+Freddy Got Fingered|Tom Green|2001|true|87|Comedy/Dark Comedy
+The Gentleman Tramp|Richard Patterson|1975|false|78|Biography/Documentary
